@@ -1,5 +1,5 @@
 {
   "name": "github-review",
-  "version": "0.1.0",
+  "version": "v0.1.0",
   "description": "Triage GitHub PR review comments — analyze, plan, and reply"
 }
