@@ -1,5 +1,7 @@
 # github-review
 
+Part of [Plugin Patisserie](https://github.com/radzio/plugin-patisserie) — artisanal Claude Code plugins, freshly baked by Baker.
+
 Claude Code plugin that triages GitHub PR review comments — analyze, plan, and reply.
 
 ## What it does
