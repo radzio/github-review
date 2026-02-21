@@ -12,14 +12,17 @@ Claude Code plugin that triages GitHub PR review comments — analyze, plan, and
 
 ## Install
 
+### Via marketplace (recommended)
+
 ```bash
-claude plugin install github:radzio/github-review
+claude plugin marketplace add https://github.com/radzio/plugin-patisserie
+claude plugin install github-review
 ```
 
-Or via the [Plugin Patisserie](https://github.com/radzio/plugin-patisserie) marketplace:
+### Standalone
 
 ```bash
-claude plugin install github:radzio/plugin-patisserie
+claude plugin add https://github.com/radzio/github-review
 ```
 
 ## Usage
